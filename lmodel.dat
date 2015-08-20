@@ -1,0 +1,4 @@
+simpler     3     0.05      1.e6    simpler  con    0
+Gamma    " "   2.0    1.0	1.1		4.0     5.0   	0.05
+FracSctr " "   0.2    0.0   0.0     0.5     1.0		0.005
+UpScOnly " "   1      0     0       100     100   	-1
